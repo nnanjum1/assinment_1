@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flowers</string>
+    <string name="hello">Hello</string>
+    <string name="welcome">Welcome</string>
+    <string name="next">Next</string>
+    <string name="rose">Rose</string>
+    <string name="lily">Lily</string>
+    <string name="orchid">Orchid</string>
+    <string name="daisy">Daisy</string>
+    <string name="rose2">Rose</string>
+</resources>
